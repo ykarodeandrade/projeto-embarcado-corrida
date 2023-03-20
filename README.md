@@ -1,4 +1,4 @@
-# Insper, Engenharia de Produção, 2023.1
+# Insper, Engenharia da Computação, 2023.1
 
 ## Projeto 1 Computação Embarcada
 
