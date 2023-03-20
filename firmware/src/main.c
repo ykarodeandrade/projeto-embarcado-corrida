@@ -8,6 +8,8 @@
 #include <asf.h>
 #include "conf_board.h"
 #include <string.h>
+#include "volante.h"
+#include "acelerador.h"
 
 /************************************************************************/
 /* defines                                                              */
